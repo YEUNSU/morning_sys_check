@@ -1,0 +1,5 @@
+{
+  "name": "IT Morning Check Scheduler",
+  "description": "An application to automatically generate and display the monthly morning check schedule for the IT department, excluding weekends and holidays. It helps streamline the process of assigning daily duties.",
+  "requestFramePermissions": []
+}
